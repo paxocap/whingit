@@ -1,0 +1,62 @@
+.eventbox { 
+   min-height: 80px;
+   max-height:140px;
+   padding: 8px 11px 8px 11px;
+   border-top: 1px solid gray;
+   overflow: hidden;
+}
+
+h1.eventbox_text {
+   color: #000000;
+   font-weight: bolder;
+   font-size: 2em;
+   padding: 0;
+   margin: 0;
+}
+
+h1.eventbox_text:hover {
+   color: #4096c7;
+   text-decoration: underline;
+}
+
+h2.eventbox_text {
+   color: #000000;
+   font-weight: bolder;
+   font-size: 1.2em;
+   padding: 0;
+   margin: 0;
+}
+
+.timer {
+   font-weight: bolder;
+   font-size: 2.5em;
+   padding: 0;
+   margin: 0;
+}
+
+.notification {
+   line-height: 4em;
+   border-top: 1px solid gray;
+   overflow: hidden;
+   background-color: #EEEEEE;
+   text-align: center;
+}
+
+.notification:hover {
+   background-color: #DDDDDD;
+}
+
+.noevents {
+   line-height: 6em;
+   border-top: 1px solid gray;
+   overflow: hidden;
+   text-align: center;
+}
+
+.notify_num {
+   margin: 0;
+   padding: 0;
+   display: inline;
+}
+
+
